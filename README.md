@@ -13,7 +13,7 @@ A helpful app providing essays for a National Exam. It was in the top 5 trending
 
 ## 🎓 Sharing Knowledge
 
-### As a teacher, I provided lessons on:
+### As a teacher, I provided the following lessons:
 
 1. **Mobile Academy** <br>
 Basics of Git, Java, Spring Boot, Angular and React, with a focus on both basic and advanced programming concepts.
