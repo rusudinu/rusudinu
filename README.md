@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Rusu Dinu! 
 
-I'm a Senior Full Stack Engineer at Tazz by eMAG and an Indie Developer at [CodingShadows](https://codingshadows.com/).
+I'm a Senior Full Stack Engineer at Tazz by eMAG and a Mobile Apps Developer at [CodingShadows](https://codingshadows.com/).
 
 ## 🚀 My most successful projects
 
