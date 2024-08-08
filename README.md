@@ -9,6 +9,6 @@ Fun facts
 - Developed Drivers Data, a serverless app that uses Firebase, Node.js and Flutter, built for Android and iOS. This cross-platform app has more than 500 monthly users and you can check it out here on [Google Play](https://play.google.com/store/apps/details?id=com.codingshadows.driversdata) or [App Store](https://apps.apple.com/ro/app/drivers-data-virtual-logbook/id6451241471).
 
 You can reach me at:
-- [LinkedIn](https://ro.linkedin.com/in/dinu-stefan-rusu)
+- [LinkedIn](https://www.linkedin.com/in/rusudinu/)
 - [App Store – Developer Profile](https://apps.apple.com/us/developer/dinu-stefan-rusu/id1697162965)
 - [Google Play – Developer Profile](https://play.google.com/store/apps/dev?id=6837124126190232759)
